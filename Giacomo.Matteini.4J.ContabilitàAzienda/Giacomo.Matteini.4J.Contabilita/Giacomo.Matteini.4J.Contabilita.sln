@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giacomo.Matteini.4J.Contabilita", "Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita.csproj", "{6F95A73F-0278-4FE6-BC47-3DBEAB21CB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F95A73F-0278-4FE6-BC47-3DBEAB21CB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F95A73F-0278-4FE6-BC47-3DBEAB21CB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F95A73F-0278-4FE6-BC47-3DBEAB21CB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F95A73F-0278-4FE6-BC47-3DBEAB21CB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E3D2DD7-0C3C-4D9D-A0B7-58E375B768E7}
+	EndGlobalSection
+EndGlobal

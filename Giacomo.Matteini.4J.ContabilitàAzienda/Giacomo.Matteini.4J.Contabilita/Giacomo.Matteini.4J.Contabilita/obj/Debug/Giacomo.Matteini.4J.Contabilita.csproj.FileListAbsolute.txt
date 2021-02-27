@@ -1,0 +1,6 @@
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\bin\Debug\Giacomo.Matteini.4J.Contabilita.exe.config
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\bin\Debug\Giacomo.Matteini.4J.Contabilita.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\bin\Debug\Giacomo.Matteini.4J.Contabilita.pdb
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\obj\Debug\Giacomo.Matteini.4J.Contabilita.csprojAssemblyReference.cache
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\obj\Debug\Giacomo.Matteini.4J.Contabilita.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Giacomo.Matteini.4J.ContabilitàAzienda\Giacomo.Matteini.4J.Contabilita\Giacomo.Matteini.4J.Contabilita\obj\Debug\Giacomo.Matteini.4J.Contabilita.pdb

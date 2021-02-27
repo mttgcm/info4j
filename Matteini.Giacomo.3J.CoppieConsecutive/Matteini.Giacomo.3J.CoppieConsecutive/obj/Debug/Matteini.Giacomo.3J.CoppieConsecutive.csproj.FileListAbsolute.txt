@@ -1,0 +1,7 @@
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\bin\Debug\Matteini.Giacomo.3J.CoppieConsecutive.exe.config
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\bin\Debug\Matteini.Giacomo.3J.CoppieConsecutive.exe
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\bin\Debug\Matteini.Giacomo.3J.CoppieConsecutive.pdb
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\obj\Debug\Matteini.Giacomo.3J.CoppieConsecutive.csprojAssemblyReference.cache
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\obj\Debug\Matteini.Giacomo.3J.CoppieConsecutive.csproj.CoreCompileInputs.cache
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\obj\Debug\Matteini.Giacomo.3J.CoppieConsecutive.exe
+C:\Users\matte\Desktop\MEGAsync\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.CoppieConsecutive\Matteini.Giacomo.3J.CoppieConsecutive\obj\Debug\Matteini.Giacomo.3J.CoppieConsecutive.pdb

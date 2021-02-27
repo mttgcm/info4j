@@ -1,0 +1,6 @@
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\obj\Debug\Matteini.Giacomo.4J.GiocoDiCarte.csprojAssemblyReference.cache
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\bin\Debug\Matteini.Giacomo.4J.GiocoDiCarte.exe.config
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\bin\Debug\Matteini.Giacomo.4J.GiocoDiCarte.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\bin\Debug\Matteini.Giacomo.4J.GiocoDiCarte.pdb
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\obj\Debug\Matteini.Giacomo.4J.GiocoDiCarte.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.4J.GiocoDiCarte\Matteini.Giacomo.4J.GiocoDiCarte\obj\Debug\Matteini.Giacomo.4J.GiocoDiCarte.pdb

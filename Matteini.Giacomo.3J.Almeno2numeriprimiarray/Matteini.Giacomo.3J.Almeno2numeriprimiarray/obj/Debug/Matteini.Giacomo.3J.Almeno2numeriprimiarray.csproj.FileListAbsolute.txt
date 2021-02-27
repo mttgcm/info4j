@@ -1,0 +1,6 @@
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\bin\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.exe.config
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\bin\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\bin\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.pdb
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\obj\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.csprojAssemblyReference.cache
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\obj\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.exe
+C:\Users\Giacomo\Desktop\Sync mega\Scuola\4'J\Informatica\C#\Matteini.Giacomo.3J.Almeno2numeriprimiarray\Matteini.Giacomo.3J.Almeno2numeriprimiarray\obj\Debug\Matteini.Giacomo.3J.Almeno2numeriprimiarray.pdb
